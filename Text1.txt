@@ -1,0 +1,1 @@
+Git commit is used to track what is newly added to the project . it keeps history of the project
